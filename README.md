@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on improving in coding knowledge and  im looking to collabroation on cyber security related  somthing i wants to do i looking for helping in these sectors i am currently learning python and c++ im working on dsa to get the good opportunity
+Coding enthusiast learning Python, C++, and DSA. Exploring Cybersecurity and open to collaboration on security-focused projects. Passionate about problem-solving and continuous learning.
 
 
 ## 🌐 Socials:
